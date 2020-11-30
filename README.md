@@ -7,7 +7,7 @@ This is ruby gem performs custom validation checks.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'custom_validator_ruby'
+gem 'custom_validator_ruby',  github: 'SergeyProger/custom_validator_ruby'
 ```
 
 And then execute:
