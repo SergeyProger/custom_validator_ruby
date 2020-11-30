@@ -8,11 +8,9 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Using pure Ruby without Rails Implement custom Validation module}
   spec.description   = %q{Include this module to your classes and demonstrate the validation usage.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/SergeyProger/custom_validator_ruby"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
-
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = spec.homepage
