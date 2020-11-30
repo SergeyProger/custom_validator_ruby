@@ -14,9 +14,6 @@ And then execute:
 
     $ bundle install
 
-Or install it yourself as:
-
-    $ gem install custom_validator_ruby
 ## Usage
 
 Usage example: 
